@@ -9,8 +9,6 @@
 
 - 📫 How to reach me maryamshilbayeh712@gmail.com
 
-- 📄 Know about my experiences: [see my cv!](https://drive.google.com/file/d/192p-bZOSIphzpNQY2LtptK6ItnuO6gZp/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maryam-hytham-0316382bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryam hytham" height="30" width="40" /></a>
